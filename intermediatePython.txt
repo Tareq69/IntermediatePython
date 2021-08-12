@@ -1,0 +1,6 @@
+-------------------------------- Section 01 ----------------------------------------------------
+
+List -> List is a data strucutre that is ordered, mutable and allows duplicate elements. List allows element of different data types.
+
+
+
